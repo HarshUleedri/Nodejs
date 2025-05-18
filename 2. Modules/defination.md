@@ -1,0 +1,1 @@
+A module in Node.js is a file containing JavaScript code that can be exported and imported using module.exports and require() or import/export syntax (with ES modules).
